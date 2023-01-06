@@ -1,0 +1,43 @@
+button{
+    border: none;
+}
+
+
+@media(min-width:600px) {
+     .new-circule-button {
+         display: none;
+     }
+ }
+
+
+ @media (max-width:600px) {
+     .new-circule-button {
+         box-shadow: 0px 5px 25px rgba(97, 218, 250, 0.5);
+         border: #c065e8;
+         border-radius: 50%;
+         width: 60px;
+         height: 60px;
+         cursor: pointer;
+         position: fixed;
+         bottom: 30px;
+         right: 30px;
+         font-size: 50px;
+         font-weight: bold;
+         color: #c065e8;
+         display: fle;
+         justify-content: center;
+         align-items: center;
+         justify-content: center;
+         transition: .3s ease;
+         transform: rotate(0);
+       
+}
+    .new-circule-button:hover{
+        transform: rotate(224deg);
+      
+        
+    }
+
+
+}
+

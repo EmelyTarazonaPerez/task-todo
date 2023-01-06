@@ -1,0 +1,65 @@
+
+.button {
+    border-radius: 0,3rem;
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #c065e8;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+
+  .button:after {
+  content: '\00bb';  /* Entidades CSS. Para usar entidades HTML, use &#8594;*/
+  position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  .button:hover {
+    padding-right: 25px;
+    opacity: 1;
+    right: 0;
+  }
+ 
+
+
+/*input css*/
+.icono_search{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.input-search {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 0,3rem;
+    padding: 9px;
+    border: 1px solid #d3d6e4;
+    text-align: center;
+    box-shadow: 2px 2px 5px #999;
+    margin-top: 34px;
+    background-color: #FFF;
+}
+
+p{
+  text-align: center;
+  margin-top: 13px;
+}
+
+.contenedor-button{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FFF;
+}

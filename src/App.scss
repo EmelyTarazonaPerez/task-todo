@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+}
+
+.border-shadow {
+  box-shadow: 2px 2px 5px #999;
+  padding: 40px;
+  border-radius: 50px;
+}
+
+.container-logica {
+  padding: 50px;
+  border-radius: 50px;
+}
+
+@media (max-width: 768px) {
+  .border-shadow {
+    box-shadow: none;
+    padding: 20px;
+  }
+}
+
+img {
+  width: 100%;
+  max-width: 450px;
+}
+
+.padding-unset {
+  padding: unset !important;
+}
+
+.list-task {
+  background-color: #ffd43b;
+}
+.container-body {
+  display: flex;
+  padding: 100px;
+  justify-content: center; 
+}
+
+@media (max-width: 980px) {
+  .container-body {
+    padding: 0;
+    background-color: #FFF;
+  }
+}
+
+@media (max-width: 600px){
+  .img-display{
+    display: none;
+  }
+  .todo-title {
+    display: none;
+  }
+  .p{
+    display: none;
+  }
+}
+

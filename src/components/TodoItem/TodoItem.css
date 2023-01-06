@@ -1,0 +1,33 @@
+
+.todo-item{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 24px;
+    box-shadow: 2px 2px 5px #999;
+    padding: 9px;
+    background-color: #fff;
+    BORDER-RADIUS: 40PX;
+    align-items: center;
+}
+
+.TodoItem-p--complete{
+    text-decoration-line: line-through;
+}
+
+
+
+.Icon {
+    border-radius: 100% !important;
+    width: 40px;
+    padding: unset;
+    height: 40px;
+}
+
+.todo-title{
+    color:  #c065e8;
+    font-weight: bold;
+    font-size: 40px;
+    text-transform: uppercase;
+    background-color: #FFF;
+
+}

@@ -1,0 +1,29 @@
+
+.Todo_Counter {
+    text-align: center;    
+}
+
+.p {
+    font-size: 12px !important;
+}
+
+.bg-warning {
+    background-color: #c065e8!important;;
+}
+
+.todo-title-counter{
+   color: #c065e8;
+   font-weight: bold;
+}
+
+@media (max-width:600px) {
+    .counter-title{
+    background-color: darkgray;
+    border-radius: 24px;
+    font-size: 19px;
+    padding: 7px;
+    }
+    .todo-title-counter{
+        font-size: 36px;
+    }
+}
