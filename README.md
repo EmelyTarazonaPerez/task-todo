@@ -1,5 +1,5 @@
 ## By Emely :purple_heart: :purple_heart: :purple_heart:
-App responsive.
+App responsive...
 
 **deploy** app = https://emelytarazonaperez.github.io/task-todo/
 
