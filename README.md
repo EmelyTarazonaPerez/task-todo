@@ -7,7 +7,7 @@ App responsive.
 - Task created.
 - Delete task.
 - Search task.
-- Bar progress
+- Bar progress.
 
 ## design images
  ![image](https://github.com/EmelyTarazonaPerez/task-todo/assets/122141594/a74a2ab1-cf8f-42aa-9fbc-f9fe918072b3)
