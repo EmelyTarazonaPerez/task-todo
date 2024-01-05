@@ -5,7 +5,7 @@ App responsive.
 
 ## Case of use
 - Task created.
-- Delete task
+- Delete task.
 - Search task
 - Bar progress
 
