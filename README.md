@@ -4,7 +4,7 @@ App responsive.
 **deploy** app = https://emelytarazonaperez.github.io/task-todo/
 
 ## Case of use
-- Task created
+- Task created.
 - Delete task
 - Search task
 - Bar progress
