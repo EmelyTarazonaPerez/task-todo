@@ -6,7 +6,7 @@ App responsive
 ## Case of use.
 - Task created.
 - Delete task
-- Search task
+- Search task.
 - Bar progress
 
 ## design images
